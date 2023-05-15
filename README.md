@@ -191,7 +191,12 @@ Dimitris: for being good friend to me..
 Joan: The woman that make me nuts the last couple months...
 
 ------------------------------------------------------------------------------------------------
-
+To do for Pcsx:
+ * Continue Bios emulation. (linuzappz)
+ * Fix CdRom code. (linuzappz)
+ * Fix Gte and speed it up, convert it to fixed point.
+ * Check Sio in games that don't work.
+ * Port to other platforms and cpus.
 Official website: http:/www.pcsx.net
 
 If I forgot someone beat me :P
