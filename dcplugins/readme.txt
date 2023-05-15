@@ -55,7 +55,8 @@ Lewpy           http://lewpy.psxemu.com/
 lu_zero         http://brsk.virtualave.net/lu_zero/                             
 linuzappz       http://www.pcsx.net                                             
 Darko Matesic   http://mrdario.tripod.com                                       
-syo             http://www.geocities.co.jp/SiliconValley-Bay/2072/              
+syo             http://www.geocities.co.jp/SiliconValley-Bay/2072/ 
+Dreamcast maintainer: and code fixes to building and plugin fix Ian micheal aka reaper2k2 ,reaper_angel@hotmail.com
 
 ----------------------------------------------------------------------    
 
