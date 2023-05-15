@@ -1,0 +1,1 @@
+this is the old core that was used in all the other builds its slightly faster but seems less stable to me so im using 1.5s sh4 core
