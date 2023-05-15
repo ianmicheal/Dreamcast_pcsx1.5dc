@@ -17,6 +17,9 @@ ex-coders:
  Nik3d       , e-mail:
 webmaster:
  Akumax      , e-mail: akumax@pcsx.net
+ Dreamcast maintainer:
+ and code fixes to building and plugin fix
+ Ian micheal aka reaper2k2 ,reaper_angel@hotmail.com
 
 Team would like to thanks:
 --------------------------
