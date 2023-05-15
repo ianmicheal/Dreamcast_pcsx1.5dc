@@ -1,7 +1,7 @@
 # Dreamcast_pcsx1.5dc
  Pcsx - Pc Psx Emulator
  ----------------------
-
+![Screenshot](screenshot.png)
 Contents
 --------
 
